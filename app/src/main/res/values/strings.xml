@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">WaityLabAdv1_1</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="name">Name:</string>
+    <string name="hello_world">Welcome back to Android 152-195</string>
     <string name="action_settings">Settings</string>
 </resources>
